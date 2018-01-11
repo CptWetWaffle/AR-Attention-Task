@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="RehabLabLogo" size="741.000000 524.508301" />
+    <ImageTarget name="trgIMG" size="4700.000000 3323.360840" />
+    <ImageTarget name="Tabletop" size="1920.000000 1200.000000" />
+  </Tracking>
+</QCARConfig>

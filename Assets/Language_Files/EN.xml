@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<MainMenu>
+		<Name>Enter or select your name:</Name>
+		<Hand>Select Left or Right Hand</Hand>
+		<Play>Play</Play>
+		<Categories>Categories</Categories>
+		<Instructions>Instructions</Instructions>
+		<Levels>Levels</Levels>
+		<Quit>Quit</Quit>
+		<Welcome>Welcome </Welcome>
+		<HandWarning>Please select the hand you want to use!</HandWarning>
+		<NameWarning>Please enter your name!</NameWarning>
+		<Practice>Practice</Practice>
+		<Memory>Memory</Memory>
+		<Calibration>Calibration</Calibration>
+		<Emotional>Emotional Rate</Emotional>
+		<Task>Attention and Memory Task</Task>
+		<Attention>Attention</Attention>
+		<Selection>Levels Selection</Selection>
+		<Info>Leave empty if is the first session</Info>
+	</MainMenu>
+	<Misc>
+		<MainMenu>Main Menu</MainMenu>
+	</Misc>
+	<MainGUI>
+		<Timer>Timer</Timer>
+		<Remaining>Cubes to find:</Remaining>
+		<Pause>Press "Space" to pause game</Pause>
+		<Unpause>Press "Space" to unpause game</Unpause>
+	</MainGUI>
+	<LevelChange>
+		<Level>Level </Level>
+		<Completed> completed with </Completed>
+		<Points> points </Points>
+		<Congrats>Very good!</Congrats>
+		<Accumulated>Accumulated Points: </Accumulated>
+		<AllLevels>You completed all levels!</AllLevels>
+		<Quit>Quit</Quit>
+		<Continue>Continue</Continue>
+		<Session>The Session is completed!</Session>
+		<Rate>Please rate from 1 to 9</Rate>
+		<Left>Place your hand on the left</Left>
+		<Right>Place your hand on the right</Right>
+		<GetReady>Get ready for new Level</GetReady>
+	</LevelChange>
+	<Calibration>
+		<Network>Network</Network>
+		<Filtering>Filtering</Filtering>
+		<Devices>Devices</Devices>
+		<Port>Port</Port>
+		<Start>Start</Start>
+		<Stop>Stop</Stop>
+		<Cal>calibrating...</Cal>
+		<Local>Local IP Adress: </Local>
+		<Scale>Scale: </Scale>
+		<Filtered>Filtered: </Filtered>
+		<Copy>Copy to clipboard</Copy>
+		<Close>Close</Close>
+		<CalibDone>Calibration for this user was already done today. Press Enter to recalibrate or Esc to skip.</CalibDone>
+	</Calibration>
+</language>

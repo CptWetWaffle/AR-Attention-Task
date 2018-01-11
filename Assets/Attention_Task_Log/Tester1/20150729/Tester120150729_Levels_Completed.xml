@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <memoryLevel>6</memoryLevel>
+  <attentionLevel>3</attentionLevel>
+  <CalibXmin>0</CalibXmin>
+  <CalibXmax>0</CalibXmax>
+  <CalibYmin>0</CalibYmin>
+  <CalibYmax>0</CalibYmax>
+</Config>

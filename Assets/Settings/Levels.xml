@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--recommended minimum number of columns: 5 -->
+<!--maximum number of columns: 9 -->
+<!--maximum number of rows: 5 -->
+<!--maximum number of targets: 4 -->
+<!--maximum number of correct choices = columns * rows -->
+<!--show correct: true or false (shows hints after timer finishes counting) -->
+<!--maximum number of time: 999 -->
+<Levels>
+<L0>
+  <columns>5</columns>
+  <rows>1</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>20</timer>
+  <picTimer>3</picTimer>
+  <category>Cat_Toulouse</category>
+  <useDistractors>false</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>6</selectionTime>
+</L0>
+<L1>
+  <columns>5</columns>
+  <rows>1</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>44</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>6</selectionTime>
+</L1>
+<L2>
+  <columns>5</columns>
+  <rows>1</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>26</timer>
+  <picTimer>3</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>6</selectionTime>
+</L2>
+<L3>
+  <columns>5</columns>
+  <rows>1</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>37.355</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.933</selectionTime>
+</L3>
+<L4>
+  <columns>3</columns>
+  <rows>2</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>25.713</timer>
+  <picTimer>3</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.933</selectionTime>
+</L4>
+<L5>
+  <columns>5</columns>
+  <rows>1</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>30.844</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.866</selectionTime>
+</L5>
+<L6>
+  <columns>7</columns>
+  <rows>1</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>25.426</timer>
+  <picTimer>3</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.866</selectionTime>
+</L6>
+<L7>
+  <columns>5</columns>
+  <rows>1</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>24.467</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.799</selectionTime>
+</L7>
+<L8>
+  <columns>4</columns>
+  <rows>2</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>25.139</timer>
+  <picTimer>3</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.799</selectionTime>
+</L8>
+<L9>
+  <columns>3</columns>
+  <rows>2</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>41.152</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.732</selectionTime>
+</L9>
+<L10>
+  <columns>3</columns>
+  <rows>3</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>24.852</timer>
+  <picTimer>3</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.732</selectionTime>
+</L10>
+<L11>
+  <columns>3</columns>
+  <rows>2</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>34.775</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.665</selectionTime>
+</L11>
+<L12>
+  <columns>5</columns>
+  <rows>1</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>30.230</timer>
+  <picTimer>6</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.665</selectionTime>
+</L12>
+<L13>
+  <columns>3</columns>
+  <rows>2</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>28.532</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.598</selectionTime>
+</L13>
+<L14>
+  <columns>5</columns>
+  <rows>2</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>24.278</timer>
+  <picTimer>3</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.598</selectionTime>
+</L14>
+<L15>
+  <columns>3</columns>
+  <rows>2</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>22.423</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.531</selectionTime>
+</L15>
+<L16>
+  <columns>3</columns>
+  <rows>2</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>29.522</timer>
+  <picTimer>6</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.531</selectionTime>
+</L16>
+<L17>
+  <columns>7</columns>
+  <rows>1</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>32.840</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.464</selectionTime>
+</L17>
+<L18>
+  <columns>7</columns>
+  <rows>1</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>29.168</timer>
+  <picTimer>6</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.464</selectionTime>
+</L18>
+<L19>
+  <columns>7</columns>
+  <rows>1</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>26.798</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.397</selectionTime>
+</L19>
+<L20>
+  <columns>4</columns>
+  <rows>3</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>23.417</timer>
+  <picTimer>2</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.397</selectionTime>
+</L20>
+<L21>
+  <columns>7</columns>
+  <rows>1</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>20.630</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.330</selectionTime>
+</L21>
+<L22>
+  <columns>4</columns>
+  <rows>2</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>28.360</timer>
+  <picTimer>5</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.330</selectionTime>
+</L22>
+<L23>
+  <columns>4</columns>
+  <rows>2</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>35.652</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.263</selectionTime>
+</L23>
+<L24>
+  <columns>3</columns>
+  <rows>3</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>27.926</timer>
+  <picTimer>5</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.263</selectionTime>
+</L24>
+<L25>
+  <columns>5</columns>
+  <rows>2</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>29.488</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.196</selectionTime>
+</L25>
+<L26>
+  <columns>7</columns>
+  <rows>2</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>22.296</timer>
+  <picTimer>2</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.196</selectionTime>
+</L26>
+<L27>
+  <columns>5</columns>
+  <rows>2</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>23.458</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.129</selectionTime>
+</L27>
+<L28>
+  <columns>4</columns>
+  <rows>2</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>32.187</timer>
+  <picTimer>8</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.129</selectionTime>
+</L28>
+<L29>
+  <columns>4</columns>
+  <rows>3</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>32.748</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.062</selectionTime>
+</L29>
+<L30>
+  <columns>3</columns>
+  <rows>2</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>36.748</timer>
+  <picTimer>11</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>5.062</selectionTime>
+</L30>
+<L31>
+  <columns>4</columns>
+  <rows>3</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>26.785</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.995</selectionTime>
+</L31>
+<L32>
+  <columns>7</columns>
+  <rows>1</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>36.180</timer>
+  <picTimer>11</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.995</selectionTime>
+</L32>
+<L33>
+  <columns>4</columns>
+  <rows>3</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>20.956</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.928</selectionTime>
+</L33>
+<L34>
+  <columns>5</columns>
+  <rows>2</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>35.612</timer>
+  <picTimer>11</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.928</selectionTime>
+</L34>
+<L35>
+  <columns>4</columns>
+  <rows>3</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>15.261</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.861</selectionTime>
+</L35>
+<L36>
+  <columns>5</columns>
+  <rows>3</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>30.183</timer>
+  <picTimer>8</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.861</selectionTime>
+</L36>
+<L37>
+  <columns>5</columns>
+  <rows>3</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>28.876</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.794</selectionTime>
+</L37>
+<L38>
+  <columns>4</columns>
+  <rows>2</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>39.270</timer>
+  <picTimer>13</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.794</selectionTime>
+</L38>
+<L39>
+  <columns>5</columns>
+  <rows>3</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>18.454</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.727</selectionTime>
+</L39>
+<L40>
+  <columns>6</columns>
+  <rows>3</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>29.181</timer>
+  <picTimer>7</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.727</selectionTime>
+</L40>
+<L41>
+  <columns>4</columns>
+  <rows>4</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>22.580</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.660</selectionTime>
+</L41>
+<L42>
+  <columns>4</columns>
+  <rows>3</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>37.7</timer>
+  <picTimer>13</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.66</selectionTime>
+</L42>
+<L43>
+  <columns>4</columns>
+  <rows>4</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>12.793</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.593</selectionTime>
+</L43>
+<L44>
+  <columns>9</columns>
+  <rows>3</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>22.986</timer>
+  <picTimer>4</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.593</selectionTime>
+</L44>
+<L45>
+  <columns>5</columns>
+  <rows>4</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>34.956</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.526</selectionTime>
+</L45>
+<L46>
+  <columns>5</columns>
+  <rows>3</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>35.83</timer>
+  <picTimer>13</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.526</selectionTime>
+</L46>
+<L47>
+  <columns>5</columns>
+  <rows>4</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>16.318</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.459</selectionTime>
+</L47>
+<L48>
+  <columns>5</columns>
+  <rows>4</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>30.436</timer>
+  <picTimer>10</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.459</selectionTime>
+</L48>
+<L49>
+  <columns>7</columns>
+  <rows>3</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>11.392</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.392</selectionTime>
+</L49>
+<L50>
+  <columns>9</columns>
+  <rows>3</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>29.568</timer>
+  <picTimer>9</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.392</selectionTime>
+</L50>
+<L51>
+  <columns>6</columns>
+  <rows>4</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>32.550</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.325</selectionTime>
+</L51>
+<L52>
+  <columns>8</columns>
+  <rows>4</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>24.375</timer>
+  <picTimer>6</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.325</selectionTime>
+</L52>
+<L53>
+  <columns>5</columns>
+  <rows>5</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>10.458</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.258</selectionTime>
+</L53>
+<L54>
+  <columns>5</columns>
+  <rows>4</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>36.348</timer>
+  <picTimer>15</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.258</selectionTime>
+</L54>
+<L55>
+  <columns>9</columns>
+  <rows>3</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>22.564</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.191</selectionTime>
+</L55>
+<L56>
+  <columns>4</columns>
+  <rows>4</rows>
+  <targets>7</targets>
+  <correctchoices>7</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>39.537</timer>
+  <picTimer>18</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.191</selectionTime>
+</L56>
+<L57>
+  <columns>9</columns>
+  <rows>3</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>13.648</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.124</selectionTime>
+</L57>
+<L58>
+  <columns>7</columns>
+  <rows>3</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>34.344</timer>
+  <picTimer>15</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.124</selectionTime>
+</L58>
+<L59>
+  <columns>7</columns>
+  <rows>4</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>25.285</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.057</selectionTime>
+</L59>
+<L60>
+  <columns>9</columns>
+  <rows>4</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>21.171</timer>
+  <picTimer>6</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>4.057</selectionTime>
+</L60>
+<L61>
+  <columns>6</columns>
+  <rows>5</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>24.650</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.990</selectionTime>
+</L61>
+<L62>
+  <columns>8</columns>
+  <rows>4</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>24.560</timer>
+  <picTimer>9</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.990</selectionTime>
+</L62>
+<L63>
+  <columns>6</columns>
+  <rows>5</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>20.092</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.923</selectionTime>
+</L63>
+<L64>
+  <columns>7</columns>
+  <rows>4</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>27.815</timer>
+  <picTimer>12</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.923</selectionTime>
+</L64>
+<L65>
+  <columns>6</columns>
+  <rows>5</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>15.668</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.856</selectionTime>
+</L65>
+<L66>
+  <columns>6</columns>
+  <rows>4</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>30.936</timer>
+  <picTimer>15</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.856</selectionTime>
+</L66>
+<L67>
+  <columns>6</columns>
+  <rows>5</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>11.378</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.789</selectionTime>
+</L67>
+<L68>
+  <columns>6</columns>
+  <rows>5</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>26.345</timer>
+  <picTimer>12</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.789</selectionTime>
+</L68>
+<L69>
+  <columns>6</columns>
+  <rows>5</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>7.222</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.722</selectionTime>
+</L69>
+<L70>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>14.444</timer>
+  <picTimer>3</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.722</selectionTime>
+</L70>
+<L71>
+  <columns>8</columns>
+  <rows>4</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>21.475</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.655</selectionTime>
+</L71>
+<L72>
+  <columns>9</columns>
+  <rows>4</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>21.22</timer>
+  <picTimer>9</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.655</selectionTime>
+</L72>
+<L73>
+  <columns>8</columns>
+  <rows>4</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>17.252</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.588</selectionTime>
+</L73>
+<L74>
+  <columns>9</columns>
+  <rows>3</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>27.728</timer>
+  <picTimer>15</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.588</selectionTime>
+</L74>
+<L75>
+  <columns>8</columns>
+  <rows>4</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>13.163</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.521</selectionTime>
+</L75>
+<L76>
+  <columns>8</columns>
+  <rows>4</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>23.405</timer>
+  <picTimer>12</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.521</selectionTime>
+</L76>
+<L77>
+  <columns>8</columns>
+  <rows>4</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>9.208</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.454</selectionTime>
+</L77>
+<L78>
+  <columns>7</columns>
+  <rows>4</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>26.124</timer>
+  <picTimer>15</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.454</selectionTime>
+</L78>
+<L79>
+  <columns>8</columns>
+  <rows>4</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>5.387</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.387</selectionTime>
+</L79>
+<L80>
+  <columns>6</columns>
+  <rows>4</rows>
+  <targets>7</targets>
+  <correctchoices>7</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>28.709</timer>
+  <picTimer>18</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.387</selectionTime>
+</L80>
+<L81>
+  <columns>7</columns>
+  <rows>5</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>18.500</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.320</selectionTime>
+</L81>
+<L82>
+  <columns>5</columns>
+  <rows>5</rows>
+  <targets>7</targets>
+  <correctchoices>7</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>23.350</timer>
+  <picTimer>17</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.650</selectionTime>
+</L82>
+<L83>
+  <columns>7</columns>
+  <rows>5</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>14.812</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.253</selectionTime>
+</L83>
+<L84>
+  <columns>7</columns>
+  <rows>5</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>20.865</timer>
+  <picTimer>11</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.253</selectionTime>
+</L84>
+<L85>
+  <columns>7</columns>
+  <rows>5</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>11.258</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.186</selectionTime>
+</L85>
+<L86>
+  <columns>8</columns>
+  <rows>5</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>17.144</timer>
+  <picTimer>8</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.186</selectionTime>
+</L86>
+<L87>
+  <columns>7</columns>
+  <rows>5</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>7.838</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.199</selectionTime>
+</L87>
+<L88>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>13.557</timer>
+  <picTimer>5</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.119</selectionTime>
+</L88>
+<L89>
+  <columns>7</columns>
+  <rows>5</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>4.552</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.052</selectionTime>
+</L89>
+<L90>
+  <columns>9</columns>
+  <rows>4</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>19.26</timer>
+  <picTimer>11</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>3.052</selectionTime>
+</L90>
+<L91>
+  <columns>9</columns>
+  <rows>4</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>16.325</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.985</selectionTime>
+</L91>
+<L92>
+  <columns>8</columns>
+  <rows>4</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>21.71</timer>
+  <picTimer>14</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.985</selectionTime>
+</L92>
+<L93>
+  <columns>9</columns>
+  <rows>4</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>12.972</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.918</selectionTime>
+</L93>
+<L94>
+  <columns>7</columns>
+  <rows>4</rows>
+  <targets>7</targets>
+  <correctchoices>7</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>24.026</timer>
+  <picTimer>17</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.918</selectionTime>
+</L94>
+<L95>
+  <columns>9</columns>
+  <rows>4</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>9.753</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.851</selectionTime>
+</L95>
+<L96>
+  <columns>6</columns>
+  <rows>5</rows>
+  <targets>7</targets>
+  <correctchoices>7</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>23.357</timer>
+  <picTimer>17</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.851</selectionTime>
+</L96>
+<L97>
+  <columns>9</columns>
+  <rows>4</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>6.668</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.784</selectionTime>
+</L97>
+<L98>
+  <columns>7</columns>
+  <rows>5</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>19.904</timer>
+  <picTimer>14</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.784</selectionTime>
+</L98>
+<L99>
+  <columns>9</columns>
+  <rows>4</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>3.717</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.717</selectionTime>
+</L99>
+<L100>
+  <columns>8</columns>
+  <rows>5</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>16.585</timer>
+  <picTimer>11</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.717</selectionTime>
+</L100>
+<L101>
+  <columns>8</columns>
+  <rows>5</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>14.150</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.650</selectionTime>
+</L101>
+<L102>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>13.3</timer>
+  <picTimer>8</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.65</selectionTime>
+</L102>
+<L103>
+  <columns>8</columns>
+  <rows>5</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>11.132</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.583</selectionTime>
+</L103>
+<L104>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>17.898</timer>
+  <picTimer>14</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.583</selectionTime>
+</L104>
+<L105>
+  <columns>8</columns>
+  <rows>5</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>8.248</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.516</selectionTime>
+</L105>
+<L106>
+  <columns>8</columns>
+  <rows>4</rows>
+  <targets>7</targets>
+  <correctchoices>7</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>19.712</timer>
+  <picTimer>17</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.516</selectionTime>
+</L106>
+<L107>
+  <columns>8</columns>
+  <rows>5</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>5.498</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.449</selectionTime>
+</L107>
+<L108>
+  <columns>7</columns>
+  <rows>5</rows>
+  <targets>7</targets>
+  <correctchoices>7</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>18.943</timer>
+  <picTimer>17</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.449</selectionTime>
+</L108>
+<L109>
+  <columns>8</columns>
+  <rows>5</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>2.882</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.382</selectionTime>
+</L109>
+<L110>
+  <columns>8</columns>
+  <rows>5</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>15.792</timer>
+  <picTimer>14</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.382</selectionTime>
+</L110>
+<L111>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>11.975</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.315</selectionTime>
+</L111>
+<L112>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>5</targets>
+  <correctchoices>5</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>12.775</timer>
+  <picTimer>11</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.315</selectionTime>
+</L112>
+<L113>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>4</targets>
+  <correctchoices>4</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>9.292</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.248</selectionTime>
+</L113>
+<L114>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>7</targets>
+  <correctchoices>7</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>16.636</timer>
+  <picTimer>17</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.248</selectionTime>
+</L114>
+<L115>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>3</targets>
+  <correctchoices>3</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>6.743</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.181</selectionTime>
+</L115>
+<L116>
+  <columns>8</columns>
+  <rows>5</rows>
+  <targets>7</targets>
+  <correctchoices>7</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>15.867</timer>
+  <picTimer>16</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.181</selectionTime>
+</L116>
+<L117>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>2</targets>
+  <correctchoices>2</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>4.328</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.144</selectionTime>
+</L117>
+<L118>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>6</targets>
+  <correctchoices>6</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>12.984</timer>
+  <picTimer>13</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.114</selectionTime>
+</L118>
+<L119>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>1</targets>
+  <correctchoices>1</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>2.047</timer>
+  <picTimer>0</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>false</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.047</selectionTime>
+</L119>
+<L120>
+  <columns>9</columns>
+  <rows>5</rows>
+  <targets>7</targets>
+  <correctchoices>7</correctchoices>
+  <showcorrect>true</showcorrect>
+  <timer>14.329</timer>
+  <picTimer>16</picTimer>
+  <category>Cat_Symbols</category>
+  <useDistractors>true</useDistractors>
+  <imagesToDisplay></imagesToDisplay>
+  <useMemory>true</useMemory>
+  <valence>false</valence>
+  <selectionTime>2.047</selectionTime>
+</L120>
+</Levels>
